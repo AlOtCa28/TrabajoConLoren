@@ -10,6 +10,8 @@ fun main(args: Array<String>) {
 
     println("La letra ${letra} aparece ${buscarLetra(cad, letra)} veces")
 
+    println("Cambio hecho para que se vea en github")
+
 }
 fun buscarLetra(cad : String, letra : Char) : Int{
     var cont : Int = 0
